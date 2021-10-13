@@ -11,7 +11,7 @@ You've got skills. You're motivated. You've got a passion for excellence. All yo
 
 The Moody's Analytics engineering team is looking for a forward-thinking software engineer who will work on a variety of projects, used by many thousands of people. You will be at the very center of transforming our organization and working to fundementally shift the way we do business. Your domain of expertise will reach from back-end to brain-melting integrations, to web, to the next technology that becomes the new best way to help the finance industry succeed. Technology moves quickly and so do we, so the ideal candidate is creative and ready to help forge new paths as part of a team focused on serving the needs of some of the largest organizations in the world with excellent, modern software.
 
-If you have a full-stack mentality, the willingness to jump in and execute on any problem thrown at you, and have a tendency or running to; instead of away from trouble, read on to see if you might be the perfect fit for this role!
+If you have a full-stack mentality, the willingness to jump in and execute on any problem thrown at you, and have a tendency of running to; instead of away from trouble, read on to see if you might be the perfect fit for this role!
 
 #### Who you are:
 
@@ -64,7 +64,7 @@ Your mission is to use a variety of technologies in order to build a simple web 
 
 <br/>
 
-![Architecture Diagram](https://i.imgur.com/bujpgbd.png)
+![Architecture Diagram](https://i.imgur.com/SB3j7mH.png)
 
 ### Submission
 
